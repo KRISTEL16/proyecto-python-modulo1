@@ -1,4 +1,3 @@
-# proyecto-python-modulo1
 # Proyecto Módulo 1 - Python for Analytics
 ## Sistema de Gestión Financiera Integral
 
